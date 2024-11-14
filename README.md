@@ -23,11 +23,7 @@
 
 ### PhotonDcMotor
 
-- **Purpose**: This class extends the functionality of a DC motor by providing asynchronous operations.
-- **Key Features**:
-  - **Asynchronous Methods**: Allows fetching motor properties like current, power, and PID coefficients asynchronously.
-  - **Enhanced Control**: Offers methods to get the corrected motor current and check if the motor is enabled asynchronously.
-- **Why Needed**: It improves the responsiveness and control of the robot by leveraging asynchronous programming, which is crucial for real-time robotics applications.
+
 
 ### PhotonCRServo
 
